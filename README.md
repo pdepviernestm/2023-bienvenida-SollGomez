@@ -1,6 +1,7 @@
 # Hola! Soy Sol
 
-![Foto Sol](https://github.com/SollGomez/a/blob/main/SolP.jpeg)
+![Foto Sol](https://user-images.githubusercontent.com/130278160/231917418-85f6275d-4a78-468d-9540-36a11f4322a6.jpeg)
+
 
 ## **Sobre Mi**
 - Mi nombre completo es **Sol Aylén Gómez**.
@@ -15,7 +16,7 @@
 ___
 ## **Kira**
 
-![Foto Kira](https://github.com/SollGomez/a/blob/main/KiraP.jpeg)
+![Foto Kira](https://user-images.githubusercontent.com/130278160/231917435-72924a49-e5ee-47b3-9734-b133042374ee.jpeg)
 
 Como ya dije, adoro a los gatitos, y como vi que muchos mostraron a sus mascotas no puedo no presentarles a la mia.\
 Ella es Kira, en marzo cumplió 2 años.
